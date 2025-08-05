@@ -1,3 +1,4 @@
 My name is Jyoshna
 my course is BCA-B
-i learned GitHub use Git which keeps a history of changes made to files. 
+i learned GitHub use Git which keeps a history of changes made to files.
+https://github.com/Jyoshna6484/my-second-repo/blob/main/GitHub.2.txt 
