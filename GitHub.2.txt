@@ -1,1 +1,3 @@
-hello my dear friends
+My name is Jyoshna
+my course is BCA-B
+i learned GitHub use Git which keeps a history of changes made to files. 
