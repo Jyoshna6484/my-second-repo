@@ -1,0 +1,1 @@
+A student portal demo showcases the features and functionality of a platform designed to streamline academic life for students.it provides a virtual space for managing course work, accessing resources,and interacting with the institution.
